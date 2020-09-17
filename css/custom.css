@@ -260,7 +260,7 @@ p {
     box-shadow: 0px 31px 40px -33px #FFC4BA;
   }
   .myemployability .card-emp {
-    height: 447px !important;
+    height: 90% !important;
     background: #FCFDFF;
     border-radius: 25px;
     border: 0px;
